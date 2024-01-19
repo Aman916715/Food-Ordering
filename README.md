@@ -144,7 +144,7 @@ By the end of this milestone, you would be having a working chatbot system that 
 
 
 ## URLs
-Drive video URL: https://drive.google.com/file/d/17a7kbL7L3jH_oEWHe7wcwcPbrdxnGMei/view?usp=sharing
+Drive video URL: https://drive.google.com/file/d/17a7kbL7L3jH_oEWHe7wcwcPbrdxnGMei/view?usp=drive_link
 
 PDF File With ScreenShoots and explanation about project : https://drive.google.com/file/d/1A166gSlCakSYal2e0eVKIfflGVpR3ojl/view?usp=drive_link
 
