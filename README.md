@@ -1,10 +1,10 @@
-# **Gym-Management using Azure Web App Bot**
+# **Food Ordering using Azure Web App Bot**
 ## **Chapter-I**
 ## Objective
 
-In this project, I would be using QnA Maker Service to make a Chatbot that give solution and answer your question about gym related.
+In this project, I would be using QnA Maker Service to make a Chatbot that give solution and answer for your Menu or Categories related questions.
 ## Problem Statement
-Develop a Chatbot for Gym-Management that solve the customer problems related to their Muscle gain,Diet problems and lose fat. 
+Develop a Chatbot for Food ordering that solve the customer problems related to  the Menu , categories,etc. 
 ## Problem Context
 The purpose of chat bots is to support and scale business teams in their relations with customers. It could live in any major chat applications like Facebook Messenger, Slack, Telegram, Text Messages. Chatbot applications streamline interactions between people and services, enhancing customer experience. At the same time, they offer companies new opportunities to improve the customers engagement process and operational efficiency by reducing the typical cost of customer service. This project is focussed on building a custom chatbot that will be your fundamental step of the learning curve of building your own professional chatbots. But you must be tired of the weird chat bots out there in the world which are made for business purposes? In this project, we would be building an extensive Chatbot service, to which you can talk. And talking to a chatbot would not be business driven. It would just be casual conversations. Collaborating with these types of APIs is very much critical as in today's world the popular chatbots do much more than simply having a data-driven conversation; to supplement additional user-oriented features.
 
@@ -26,9 +26,9 @@ When to use QnA Maker
 
 After you publish your knowledge base, a client application sends a user's question to your endpoint. Your QnA Maker service processes the question and responds with the best answer.
 ## Problem’s Primary Goals
-•	 Setting up a chatbot that can order your requirements (Diet,Muscle gain and Lose fat).
+•	 Setting up a chatbot that can order your requirements (Menu and categories).
 
-•  Using a QnA Maker Bot service to build Gym-Management chatbot. 
+•  Using a QnA Maker Bot service to build Food Ordering chatbot. 
 
 •  Having a real-world chatbot, to which you can chat like you chatting to a real person and solve your problems.
 ## Input
