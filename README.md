@@ -35,21 +35,21 @@ After you publish your knowledge base, a client application sends a user's quest
 For input source i use a Editorial custom question and answer type.
 ## Output
 ![Picture2](https://user-images.githubusercontent.com/71881295/160243365-5a79dd46-15e2-4473-a12a-858ec57929d1.png)
-![Screenshot 2023-12-27 165205](https://github.com/Aman916715/Gym-management/assets/152375923/05eb6077-af9a-46bd-a2c5-85a605b4b5e0)
-![Screenshot 2023-12-27 165337](https://github.com/Aman916715/Gym-management/assets/152375923/acc83cec-cc0b-4fb4-9098-f5041ae438ff)
-![3](https://github.com/Aman916715/Gym-management/assets/152375923/a7f2c0a6-f8be-4c51-950d-67e31b02417c).
-![4](https://github.com/Aman916715/Gym-management/assets/152375923/0344e937-d8a1-4b01-8c24-24130451a695)
-![5](https://github.com/Aman916715/Gym-management/assets/152375923/460eb3b9-6610-422f-a04c-797b7d0ed8b9)
+![test1](https://github.com/Aman916715/Food-Ordering/assets/152375923/16bda37b-f3a1-4ed6-b005-7a95e75e8bb2)
+![test2](https://github.com/Aman916715/Food-Ordering/assets/152375923/0c8c7b22-d88c-46a3-afb9-309916605146)
+![test3](https://github.com/Aman916715/Food-Ordering/assets/152375923/63bcbe3f-5c42-4734-9654-9b1fbd262756)
+![test4](https://github.com/Aman916715/Food-Ordering/assets/152375923/3f7a368a-c947-42f2-b143-b9f2d7b2bc61)
+
 ## **Chapter-II**
 
 ## Microsoft Azure Bot Framework Architecture(Resource visualizer)
 
-![6](https://github.com/Aman916715/Gym-management/assets/152375923/8d8fc350-2c0c-4972-bbca-68ab55985a2e)
-
+![visualizer](https://github.com/Aman916715/Food-Ordering/assets/152375923/8b3dc0d5-0668-4b56-b219-36bca561c707)
   
 ## Microsoft Azure QnA Maker Development Cycle
 
 ![Picture19](https://user-images.githubusercontent.com/71881295/160243758-0622438b-ed0d-4ed0-a9fa-15922a56d8f0.png)
+
 ## Life Cycle of a Conversational Bot
 
 ![Picture20](https://user-images.githubusercontent.com/71881295/160243891-a71ddc39-a436-444f-9dd1-0fcbed88fc5f.png)
@@ -94,31 +94,31 @@ If you would like to design the application which needs to extract the informati
 
 ### Create a Resource Group on Azure
 
-![resource grp](https://github.com/Aman916715/Gym-management/assets/152375923/293c4e97-bd62-453e-b4e1-b8fed44b63cd)
+![re grp](https://github.com/Aman916715/Food-Ordering/assets/152375923/a4455108-6aea-4233-9720-6f292cf3132a)
 
 ## Task2
 
 ### Create a Language Service on Azure
 
-![language](https://github.com/Aman916715/Gym-management/assets/152375923/08d048d2-3436-4734-8283-acbaddf3b39f)
+![language](https://github.com/Aman916715/Food-Ordering/assets/152375923/f70b4610-cc41-4988-9bff-6dc3f4da79bb)
 
 ## Task3
 
 ### Create a Knowledge Base on Azure
 
-![kb](https://github.com/Aman916715/Gym-management/assets/152375923/35f92a60-6dbf-4796-b5c1-4f74d2c43233)
+![kb1](https://github.com/Aman916715/Food-Ordering/assets/152375923/abc73754-0f6f-4f38-8dab-a17c8675033b)
 
 ## Task4
 
 ### Create an App Service on Azure
 
-![app service](https://github.com/Aman916715/Gym-management/assets/152375923/eb27648a-bb20-4b27-93a4-6c948fce0149)
+![app service](https://github.com/Aman916715/Food-Ordering/assets/152375923/3d9eb2ea-0068-47a8-8cd5-dd753fe9065c)
 
 ## Task5
 
 ### Create a Web App Bot on Azure
 
-![bot](https://github.com/Aman916715/Gym-management/assets/152375923/5105c553-ea00-4871-9cf2-3eab6c4c39c5)
+![bot](https://github.com/Aman916715/Food-Ordering/assets/152375923/1fb5f403-0b03-40bf-8a3e-dba56a56ed21)
 
 ## Task6
 
@@ -130,7 +130,7 @@ If you would like to design the application which needs to extract the informati
 ![test2](https://github.com/Aman916715/Food-Ordering/assets/152375923/d9cde85d-0431-4ff6-a2b0-0a8522f21d83)
 
 ## Expected Outcome
-By the end of this milestone, you would be having a working chatbot system that solve your problems about Muscle gaining,Diet Plan and Lose fat.
+By the end of this milestone, you would be having a working chatbot system that solve your problems about Menu and Categories.
 
 ## Technologies / Tools Used
 
