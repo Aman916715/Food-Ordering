@@ -148,7 +148,7 @@ Drive video URL: https://drive.google.com/file/d/1tMqufhAGLdp-I9fIbayywD7UXwV5Wo
 
 PDF File With ScreenShoots and explanation about project : https://drive.google.com/file/d/1A166gSlCakSYal2e0eVKIfflGVpR3ojl/view?usp=drive_link
 
-working project URL: https://aman916715.github.io/Gym-management/
+working project URL: https://aman916715.github.io/Food-Ordering/
 
 Azure Account ID: amangupta9076@gmail.com
 
